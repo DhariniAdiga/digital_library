@@ -17,7 +17,7 @@ menu:
     - name: About
       url: /about/
     
-      url: https://github.com/rstudio/blogdown
+      
     - name: Degoo
       url: https://cloud.degoo.com/share/WBjOhbl23cZVIjNOS8om3g
 params:
