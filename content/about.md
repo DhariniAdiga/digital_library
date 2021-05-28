@@ -19,3 +19,63 @@ To accomplish excellence in curricular, co-curricular and R&D activities and act
 To impart quality education based on in-depth and thorough understanding of fundamentals
 To prepare the students to meet the demands of the Instrumentation industry
 Motivate and inspire young engineers to contribute to development of the society.
+<b>Programme Educational Objectives (PEOs)</b>
+<br>
+<b>PEO1</b>
+<br>
+Excel in professional career in Instrumentation engineering and allied industries.
+<b>PEO2</b>
+<br>
+Adapt to modern technological advancement by upgrading knowledge.
+<b>PEO3</b>
+<br>
+Exhibit leadership, team spirit and communication skills with a commitment towards the requirements of society.
+<b>Programme Specific Objectives (PSOs)</b>
+<br>
+<b>PSO1</b>
+<br>
+Ability to apply the concepts of data acquisition, signal conditioning, control and communication in the field of Electronics and Instrumentation.
+<b>PSO2</b>
+<br>
+Ability to simulate, analyse and interpret analog / digital circuit designs, related to applications of automation and control using modern engineering tools
+<b>PSO3</b>
+<br>
+Ability to apply the knowledge of PLC, SCADA and DCS with industrial networking protocols for process industries.
+<b>Programme Outcomes (POs)</b>
+<br>
+<b>PO1</b>
+<br>
+Engineering knowledge: Apply the knowledge of mathematics, science, engineering fundamentals and an engineering specialization to the solution of complex engineering problems.
+<b>PO2</b>
+<br>
+Problem analysis: Identify, formulate, research literature and analyse complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences and engineering sciences.
+<b>PO3</b>
+<br>
+Design/development of solutions: Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety and the cultural, societal and environmental considerations.
+<b>PO4</b>
+<br>
+Conduct investigations of complex problems: Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions.
+<b>PO5</b>
+<br>
+Modern tool usage: Create, select, and apply appropriate techniques, resources and modern engineering and IT tools including prediction and modelling to complex engineering activities with an understanding of the limitations.
+<b>PO6</b>
+<br>
+The engineer and society: Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.
+<b>PO7</b>
+<br>
+Environment and sustainability: Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of and need for sustainable development.
+<b>PO8</b>
+<br>
+Ethics: Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.
+<b>PO9</b>
+<br>
+Individual and team work: Function effectively as an individual and as a member or leader in diverse teams and in multidisciplinary settings.
+<b>PO10</b>
+<br>
+Communication: Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations and give and receive clear instructions.
+<b>PO11</b>
+<br>
+Project management and finance: Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.
+<b>PO12</b>
+<br>
+Life-long learning:Recognise the need for and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.
