@@ -19,6 +19,7 @@ To accomplish excellence in curricular, co-curricular and R&D activities and act
 To impart quality education based on in-depth and thorough understanding of fundamentals
 To prepare the students to meet the demands of the Instrumentation industry
 Motivate and inspire young engineers to contribute to development of the society.
+<br>
 <b>Programme Educational Objectives (PEOs)</b>
 <br>
 <b>PEO1</b>
